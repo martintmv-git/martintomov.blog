@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Nuxt 3 Vue Personal Blog
+In my blog, I'll share insights into my research and creative process, 
+giving you a peek into how I explore and experiment with web development and AI.
 
 ## Setup
 
