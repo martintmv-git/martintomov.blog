@@ -4,8 +4,8 @@
     <div>
       <a
         class="font-size:20px text-slate-600 font-bold hover:opacity-70 duration-300"
-        href="mailto:martintmv@proton.me"
-        >martintmv@proton.me</a
+        href="mailto:work.martintmv@gmail.com"
+        >work.martintmv@gmail.com</a
       >
       <br>
       <a
