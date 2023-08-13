@@ -6,10 +6,6 @@
       </NuxtLink>
     </nav>
     <div class="pl-2 flex flex-col items-start">
-      <p class="mt-4 text-lg">
-        In my blog, I'll share insights into my research and creative process, <br>
-        giving you a peek into how I explore and experiment with web development and AI.
-      </p>
     </div>
     <br>
     <a
