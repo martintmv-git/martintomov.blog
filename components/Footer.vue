@@ -8,12 +8,6 @@
         >work.martintmv@gmail.com</a
       >
       <br>
-      <a
-        class="text-slate-600 font-bold hover:opacity-70 duration-300"
-        href="https://linktr.ee/martintmv"
-        >linktr.ee/martintmv</a
-      >
-      <br>
       <br>
       © {{ new Date().getFullYear() }}, Built with
       <a
